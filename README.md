@@ -45,10 +45,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
   # Clonar repositório
-  $ git clone https://github.com/diegoveigass/desafio-go-marketplace-mobile
+  $ git clone https://github.com/diegoveigass/desafio-fundamentos-react-native
 
   # Entrar no diretório
-  $ cd desafio-go-marketplace-mobile
+  $ cd desafio-fundamentos-react-native
 
   # Instalar as dependências via yarn
   $ yarn
